@@ -1,16 +1,15 @@
-Git Basic Commands
+**Git Basic Commands**
 
-Basic Git configuration
+**Basic Git configuration**
 
 git config --global user.name <username>
   
 git config --global user.email <email>
 
-Initialize a empty Git Repository
-  
+**Initialize a empty Git Repository**
 git init 
 
-Displays all hidden folders within repository  
+**Displays all hidden folders within repository**  
 ls -lart 
 
 Display status of the tracked/untracked files  
