@@ -1,6 +1,6 @@
 **Git Basic Commands**
 
-**Basic Git configuration**
+Basic Git configuration
 
 **git config --global user.name <username>**
   
