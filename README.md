@@ -2,9 +2,11 @@ Git Basic Commands
 
 Basic Git configuration
 git config --global user.name <username>
+  
 git config --global user.email <email>
 
 Initialize a empty Git Repository
+  
 git init 
 
 Displays all hidden folders within repository  
