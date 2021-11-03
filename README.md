@@ -48,7 +48,7 @@ history of commits
   
 Displays desired number of last commits
     
-   git log -p -<number> 
+   git log -p -number 
   
 Compares working tree to staging area  
     
