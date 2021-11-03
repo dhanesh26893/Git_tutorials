@@ -1,20 +1,25 @@
 **Git Basic Commands**
 
 Basic Git configuration
+
     **git config --global user.name <username>**
     **git config --global user.email <email>**
 
   
 Initialize a empty Git Repository
+
     **git init** 
 
 Displays all hidden folders within repository  
+
     **ls -lart** 
 
 Display status of the tracked/untracked files
+
     **git status** 
 
 Add file in the staging area  
+
     **git add <FILE>** 
 
 Git converts tracked to untrack mark  
